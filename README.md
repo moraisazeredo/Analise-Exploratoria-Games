@@ -1,4 +1,7 @@
 # Analise-Exploratoria-Games
+
+![Diferentes consoles de várias plataformas](https://t2.tudocdn.net/605731?w=1920&h=1080)
+
 ## Sobre o projeto
 Essa é uma análise exploratória feita em Python que relaciona os diferentes preços de games, gêneros e outras variáveis com o valor de suas vendas em diferentes regiões do mundo.
 
